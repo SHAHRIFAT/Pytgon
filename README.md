@@ -1,2 +1,2 @@
-# Pytgon
+# Python
 Assignment 2
